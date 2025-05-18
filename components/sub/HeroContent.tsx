@@ -24,7 +24,7 @@ const HeroContent = () => {
                 >
                     <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
                     <h1 className="Welcome-text text-[13px]">
-                        Fullstack Developer | Coding Mentor | Content Creator
+                        Web Developer | Fresher | Graduate
                     </h1>
                 </motion.div>
 
@@ -46,8 +46,14 @@ const HeroContent = () => {
                     variants={slideInFromLeft(0.8)}
                     className="text-lg text-gray-400 my-5 max-w-[600px]"
                 >
-                    I&apos;m a Full Stack Software Engineer with experience in Website,
-                    Mobile, and Software development. Check out my projects and skills.
+                   I&apos;m Front-end developer with expertise in TypeScript,
+                  React & Next.js. Proven ability to deliver user-centered web
+                  applications with a focus on intuitive experiences and user
+                  interaction.
+
+                  Seeking for Web Development opportunities where I can leverage
+                  my skills to create meaningful connections between products
+                  and users.
                 </motion.p>
                 <motion.a
                     variants={slideInFromLeft(1)}
